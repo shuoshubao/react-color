@@ -1,6 +1,6 @@
 {
   "name": "@nbfe/react-color",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A Collection of Color Pickers from Sketch, Photoshop, Chrome & more",
   "main": "dist/index.js",
   "module": "dist/index.esm.js",
@@ -12,13 +12,12 @@
     "prepublishOnly": "npm run build"
   },
   "dependencies": {
-    "@icons/material": "^0.2.4",
+    "@icons/material": "^0.4.1",
     "@nbfe/reactcss": "^0.2.0",
     "lodash": "^4.17.15",
-    "material-colors": "^1.2.1",
-    "prop-types": "^15.5.10",
-    "reactcss": "^1.2.0",
-    "tinycolor2": "^1.4.1"
+    "material-colors": "^1.2.6",
+    "prop-types": "^15.8.1",
+    "tinycolor2": "^1.6.0"
   },
   "devDependencies": {
     "@babel/plugin-proposal-export-default-from": "^7.22.5",
